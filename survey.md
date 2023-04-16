@@ -1,5 +1,5 @@
-Favorite color: 
-Favorite food: 
-Favorite musician/band: 
-Favorite movie: 
-Requested grade in the course: 
+Favorite color: blue 
+Favorite food: blue food
+Favorite musician/band: blue bands
+Favorite movie: Riely Ried movies
+Requested grade in the course: 69
